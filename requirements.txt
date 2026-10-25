@@ -1,0 +1,8 @@
+torch
+torchvision
+torchmetrics
+pytorch-fid
+matplotlib
+numpy
+tqdm
+scikit-image
